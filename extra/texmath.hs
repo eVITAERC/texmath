@@ -95,7 +95,7 @@ output dt (StringWriter w) es = w dt es
 output dt (PandocWriter w) es = show (fromMaybe fallback (w dt es))
   where fallback = [Math mt (writeTeX es)]
         mt = case dt of
-                  DisplayBlock  -> DisplayMath
+                  DisplayBlock  -> DisplayMath nullAttr
                   DisplayInline -> InlineMath
 
 err :: Bool -> Int -> String -> IO a
