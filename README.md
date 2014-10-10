@@ -12,7 +12,8 @@ This package is a fork of [Texmath][texmath]. It is intended to support the
 development of [Scholdoc][scholdoc], a fork of [Pandoc][pandoc] that
 understands [ScholarlyMarkdown][scholmd]. The [Texmath][texmath] library
 provides functions to read and write TeX math, presentation MathML, and OMML
-(Office Math Markup Language, used in Microsoft Office).
+(Office Math Markup Language, used in Microsoft Office). For more information,
+consult the [`README_TEXMATH.md`][texmath-readme-blob].
 
 `scholdoc-texmath` is currently just a trivial fork just so it can compile
 against [Scholdoc-Types][scholdoc-types] instead of
@@ -31,3 +32,4 @@ This package is currently up to date with [Texmath][texmath] version 0.8
 [travis_stat]: https://travis-ci.org/timtylin/scholdoc-texmath
 [scholarly-devel-travisimage]: https://travis-ci.org/timtylin/scholdoc-texmath.svg?branch=scholarly-devel
 [scholarly-travisimage]: https://travis-ci.org/timtylin/scholdoc-texmath.svg?branch=scholarly
+[texmath-readme-blob]: https://github.com/timtylin/scholdoc-texmath/blob/scholarly-devel/README_TEXMATH.md
