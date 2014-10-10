@@ -2,7 +2,7 @@ Name:                scholdoc-texmath
 Version:             0.1
 Cabal-Version:       >= 1.10
 Build-type:          Simple
-Synopsis:            Scholdoc fork of @texmath@
+Synopsis:            Scholdoc fork of texmath
 Description:         This package is a fork of @texmath@, intended to support
                      the development of Scholdoc. It is currently just a
                      trivial fork just so it can compile against
