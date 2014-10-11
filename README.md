@@ -13,7 +13,7 @@ development of [Scholdoc][scholdoc], a fork of [Pandoc][pandoc] that
 understands [ScholarlyMarkdown][scholmd]. The [Texmath][texmath] library
 provides functions to read and write TeX math, presentation MathML, and OMML
 (Office Math Markup Language, used in Microsoft Office). For more information,
-consult the [`README_TEXMATH.md`][texmath-readme-blob].
+consult the original README file of `texmath`, which is moved to [`README-texmath.md`][texmath-readme-blob].
 
 `scholdoc-texmath` is currently just a trivial fork just so it can compile
 against [Scholdoc-Types][scholdoc-types] instead of
