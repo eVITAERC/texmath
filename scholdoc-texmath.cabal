@@ -24,7 +24,7 @@ License:             GPL
 License-File:        LICENSE
 Author:              Tim T.Y. Lin
 Maintainer:          timtylin@gmail.com
-Homepage:            http://github.com/timtylin/scholdoc-texmath
+Homepage:            http://scholdoc.scholarlymarkdown.com
 Bug-Reports:         http://github.com/timtylin/scholdoc-texmath/issues
 Extra-source-files:  README.md
                      README_TEXMATH.md
