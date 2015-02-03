@@ -3,7 +3,7 @@ Scholdoc-Texmath
 
 ### A fork of [Texmath][texmath] for [Scholdoc][scholdoc]
 
-**Current stable version:** 0.1
+**Current stable version:** 0.1.0.1
 
 **Development build status** [![build status][scholarly-devel-travisimage]][travis_stat]  
 **Stable build status** [![build status][scholarly-travisimage]][travis_stat]
