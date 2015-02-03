@@ -1,5 +1,5 @@
 Name:                scholdoc-texmath
-Version:             0.1
+Version:             0.1.0.1
 Cabal-Version:       >= 1.10
 Build-type:          Simple
 Synopsis:            Scholdoc fork of texmath
