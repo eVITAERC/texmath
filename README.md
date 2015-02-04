@@ -30,6 +30,6 @@ This package is currently up to date with [Texmath][texmath] version 0.8.0.1
 [pandoc]: http://johnmacfarlane.net/pandoc/
 [pandoc-types]: https://github.com/jgm/pandoc-types
 [travis_stat]: https://travis-ci.org/timtylin/scholdoc-texmath
-[scholarly-devel-travisimage]: https://travis-ci.org/timtylin/scholdoc-texmath.svg?branch=scholarly-devel
-[scholarly-travisimage]: https://travis-ci.org/timtylin/scholdoc-texmath.svg?branch=scholarly
-[texmath-readme-blob]: https://github.com/timtylin/scholdoc-texmath/blob/scholarly-devel/README_TEXMATH.md
+[scholarly-devel-travisimage]: https://travis-ci.org/timtylin/scholdoc-texmath.svg?branch=master
+[scholarly-travisimage]: https://travis-ci.org/timtylin/scholdoc-texmath.svg?branch=stable
+[texmath-readme-blob]: https://github.com/timtylin/scholdoc-texmath/blob/master/README_TEXMATH.md
