@@ -10,7 +10,7 @@ Description:         This package is a fork of @texmath@, intended to support
                      namespace.
                      .
                      This package is currently up to date with @taxmath@
-                     version 0.8
+                     version 0.8.0.1
                      .
                      The @texmath@ library provides functions to read and write 
                      TeX math, presentation MathML, and OMML (Office Math
@@ -27,7 +27,7 @@ Maintainer:          timtylin@gmail.com
 Homepage:            http://github.com/timtylin/scholdoc-texmath
 Bug-Reports:         http://github.com/timtylin/scholdoc-texmath/issues
 Extra-source-files:  README.md
-                     README_TEXMATH.md
+                     README-texmath.md
                      changelog
                      man/texmath.1.md
                      man/Makefile

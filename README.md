@@ -21,7 +21,7 @@ against [Scholdoc-Types][scholdoc-types] instead of
 on a user's Cabal build system. In the future, enhancements and modifications
 made as part of the [Scholdoc][scholdoc] project will be introduced here first.
 
-This package is currently up to date with [Texmath][texmath] version 0.8
+This package is currently up to date with [Texmath][texmath] version 0.8.0.1
 
 [scholmd]: http://scholarlymarkdown.com
 [scholdoc]: https://github.com/timtylin/scholdoc
